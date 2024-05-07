@@ -21,3 +21,6 @@
 <p>This project simulates a film allocation project over the internet, using an API called The Movies Data Base. the film among other very interesting things </p>
 <p>When carrying out this project, I internalized several React concepts, such as the React Router Dom, concepts of props and JavaScript such as API consumption, use of useState() for states, among other functions as you can access in the code above in the repository! </p>
 <p>This code is also responsive for mobile devices!</p>
+
+
+![image](https://github.com/DevGustavoGantois/MoviesLib_REACT/assets/123424700/c4da6448-7341-4b72-93bb-00898290e43b)
